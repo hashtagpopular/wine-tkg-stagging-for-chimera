@@ -1,5 +1,5 @@
 pkgname = "wine-tkg-stagging"
-pkgver = "11.0.10" # Updated to latest stable as of Jan 2026
+pkgver = "11.0" # Updated to latest stable as of Jan 2026
 pkgrel = 0
 archs = ["aarch64", "x86_64"]
 build_style = "gnu_configure"
